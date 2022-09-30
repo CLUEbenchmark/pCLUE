@@ -94,7 +94,7 @@ pCLUE：基于提示的大规模预训练数据集，用于多任务学习和零
 ### 技术交流和问题反馈
 <p float="left">
    <img src="https://github.com/CLUEbenchmark/pCLUE/blob/main/resources/imgs/pCLUE.jpeg"  width="29%" height="29%" />   
-   <img src="https://github.com/CLUEbenchmark/pCLUE/blob/main/docs/imgs/brightmart.jpeg"  width="29%" height="29%" /> 
+   <img src="https://github.com/CLUEbenchmark/pCLUE/blob/main/resources/imgs/brightmart.jpeg"  width="29%" height="29%" /> 
 </p> 
        
           

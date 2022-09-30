@@ -33,7 +33,7 @@ pCLUE：基于提示的大规模预训练数据集，用于多任务学习和零
     answer_choices:选项（只有分类、推理类任务有）
 
 ### 提交样例：
-    见resources/promptclue_submit_examples。每个任务一个文件，每行是一个json,如：{"target": "2000万元"}
+    见resources/promptclue_submit_examples。只需提交一个文件，每行是一个json，如：{"target": "2000万元"}
     
 ### 示例：
     {"input": "哪个类别最好的描述了这篇新闻？扣篮王拉文：精彩暴扣表演！炸\n选项：故事，文化，娱乐，体育，财经，房产，汽车，教育，科技，军事，旅游，国际，股票，农业，游戏\n答案：", "target": "电竞", "answer_choices": ["故事", "文化", "娱乐", "体育", "财经", "房产", "汽车", "教育", "科技", "军事", "旅游", "国际", "股票", "农业", "游戏"], "type": "classify"}

@@ -93,9 +93,9 @@ pCLUE：基于提示的大规模预训练数据集，用于多任务学习和零
   
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QIQDWAACkV7-iRrkrk18XrRjEekMhOtv?usp=sharing)
   
-### 基线效果
+### <a href='https://cluebenchmarks.com/pclue.html'>基线效果</a>
  
-  <img src="https://github.com/CLUEbenchmark/pCLUE/blob/main/resources/imgs/baseline_result.png"  width="65%" height="65%" />   
+  <img src="https://github.com/CLUEbenchmark/pCLUE/blob/main/resources/imgs/baseline_result.png"  width="90%" height="90%" />   
 
 
 ### 技术交流和问题反馈

@@ -95,7 +95,8 @@ pCLUE：基于提示的大规模预训练数据集，用于多任务学习和零
   
 ### 基线效果
  
-    十一期间，添加中。。。
+  <img src="https://github.com/CLUEbenchmark/pCLUE/blob/main/resources/imgs/baseline_result.png"  width="65%" height="65%" />   
+
 
 ### 技术交流和问题反馈
 <p float="left">

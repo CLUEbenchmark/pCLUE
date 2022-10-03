@@ -12,8 +12,7 @@
     
     训练集：
     cat pCLUE_train_1.json pCLUE_train_2.json pCLUE_train_3.json pCLUE_train_4.json pCLUE_train_5.json pCLUE_train_6.json pCLUE_train_7.json pCLUE_train_8.json pCLUE_train_9.json >> pCLUE_train.json
-    
-    
+     
     公开测试集：
     cat pCLUE_test_public_1.json pCLUE_test_public_2.json >> pCLUE_test_public.json
     

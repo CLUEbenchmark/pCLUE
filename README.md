@@ -1,4 +1,4 @@
-# PromptCLUE
+# pCLUE
 pCLUE: Large-scale Prompt-based Dataset for Multi-task and Zero-shot Learning in Chinese
 
 pCLUE：基于提示的大规模预训练数据集，用于多任务学习和零样本学习
